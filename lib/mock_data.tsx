@@ -106,3 +106,29 @@ export const experienceFilterOptions = [
   "5+ years",
 ];
 export const locationFilterOptions = ["abc", "xyz"];
+
+export const jobDetails = {
+  company_logo: "/assets/razorpay_logo.svg",
+  company_name: "Razorpay",
+  role: "Senior Frontend Engineer",
+  level: "Full time - Mid-Senior Level",
+  company_size_domain: "1001 - 5000 Employee | Computer Software",
+  location: "Location - Bangalore",
+  compensation: "Salary 20-30 LPA",
+  responsibilites: [
+    "Design and lead our web payment strategy",
+    "Work on our powerful, cross-browser javascript library for payments",
+    "Own and drive our merchant dashboard to make it faster and simpler to use",
+    "Get to experiment and work on cutting edge technologies on a bunch of micro sites",
+    "Contribute to open source as we set the standards for online payments",
+    "And most importantly, brainstorm and create new directions that Razorpay can take in our quest to make online payments easy and accessible to all",
+  ],
+  skills: [
+    "A minimum of 6+ years of relevant experience",
+    "Proficient knowledge of any popular JS framework like React, Ember, Angular or Backbone",
+    "Experience with common frontend tools like SASS/Stylus, Jade, Grunt/Gulp etc",
+    "Good understanding of REST API",
+    "Ability to build a feature from scratch & drive it to completion",
+    "A willingness to learn new technology, whatever lets you deliver the best product",
+  ],
+};
